@@ -1,0 +1,16 @@
+{
+  "name": "DoyenAuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Tayo",
+  "license": "ISC",
+  "devDependencies": {
+    "@bahmutov/cy-api": "^2.2.6",
+    "@faker-js/faker": "^9.0.3",
+    "cypress": "^13.13.2"
+  }
+}
